@@ -116,7 +116,8 @@ zillow-home-value-analysis-time-series/
 
 ---
 
-*Data: Zillow Home Value Index (ZHVI) | Analysis period: Jan 2000 to Sep 2022*
+**Author:** Ali Abu Sohiban
+
 ---
 
-**Author:** Ali Abu Sohiban
+*Data: Zillow Home Value Index (ZHVI) | Analysis period: Jan 2000 to Sep 2022*
