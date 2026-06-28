@@ -99,10 +99,12 @@ by late 2022.
 
 ## File Structure
 
+```plaintext
 zillow-home-value-analysis-time-series/
 ├── zillow_home_values_analysis.ipynb
 ├── home_values_4_cities_2000_2022.png
 └── README.md
+```
 ---
 
 ## How to Run
